@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-! [github-snake.svg](https://github.com/GUOkekkk/GUOkekkk/blob/output/github-contribution-grid-snake.svg)
+![github-snake.svg](https://github.com/GUOkekkk/GUOkekkk/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **GUOkekkk/GUOkekkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
