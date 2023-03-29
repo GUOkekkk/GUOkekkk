@@ -1,9 +1,10 @@
-### Hi there 👋
+### 🐯 Hi there 👋
 
+##### 🐍: Eat All Contributions!
 ![github-snake.svg](https://github.com/GUOkekkk/GUOkekkk/blob/output/github-contribution-grid-snake.svg)
 
 <!--
-**GUOkekkk/GUOkekkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GUOkekkk/GUOkekkk** 🐯is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
