@@ -1,6 +1,6 @@
 ### 🐯 Hi there 👋
 
-##### 🐍: Eat All Contributions!
+## 🐍: Eat All Contributions!
 ![github-snake.svg](https://github.com/GUOkekkk/GUOkekkk/blob/output/github-contribution-grid-snake.svg)
 
 <!--
