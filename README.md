@@ -1,5 +1,5 @@
-### 🐯 Hi there 👋
-
+### 🐯 GUO Nash Ke 👋
+I am currently a Master 2 student majoring in Advanced Robotics at Ecole Centrale de Nantes, France and doing my internship as the research enginner in [Visual Behavior](https://visualbehavior.ai/), an excellent company in the field of the robots autonomy and computer vision
 ## 🐍: Eat All Contributions!
 ![github-snake.svg](https://github.com/GUOkekkk/GUOkekkk/blob/output/github-contribution-grid-snake.svg)
 
