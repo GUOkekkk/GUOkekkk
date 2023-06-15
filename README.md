@@ -13,7 +13,7 @@ I am currently a Master 2 student majoring in [Advanced Robotics](https://www.ec
 
 ![Linkedin](https://www.linkedin.com/in/keguoecn1/ style=social)
 
-![test](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+![Linkedin](https://img.shields.io/static/v1?label=<Linkedin>&message=<[keguoecn](https://www.linkedin.com/in/keguoecn1/)>&color=<COLOR>)
 
 
 ## 🐍: Eat All Contributions!
