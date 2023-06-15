@@ -9,7 +9,7 @@ I am currently a Master 2 student majoring in [Advanced Robotics](https://www.ec
 
 📫 Feel free to contact me to discuss any interesting topics: 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](https://www.linkedin.com/in/keguoecn1/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/keguoecn1/)
 &nbsp;
 [![Gmail](https://i.stack.imgur.com/tskMh.png) Gmail](guoke9612@gmail.com)
 
