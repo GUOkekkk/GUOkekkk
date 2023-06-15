@@ -9,12 +9,9 @@ I am currently a Master 2 student majoring in [Advanced Robotics](https://www.ec
 
 📫 Feel free to contact me to discuss any interesting topics: 
 
-![Gmail](guoke9612@gmail.com style=social) 
-
-![Linkedin](https://www.linkedin.com/in/keguoecn1/ style=social)
-
-![Linkedin](https://img.shields.io/static/v1?label=<Linkedin>&message=<[keguoecn](https://www.linkedin.com/in/keguoecn1/)>&color=<COLOR>)
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/keguoecn1/))
+&nbsp;
+[![Gmail](https://i.stack.imgur.com/tskMh.png) GitHub](guoke9612@gmail.com)
 
 ## 🐍: Eat All Contributions!
 ![github-snake.svg](https://github.com/GUOkekkk/GUOkekkk/blob/output/github-contribution-grid-snake.svg)
