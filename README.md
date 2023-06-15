@@ -10,7 +10,7 @@ I am currently a Master 2 student majoring in [Advanced Robotics](https://www.ec
 📫 Feel free to contact me to discuss any interesting topics: 
 
 [![Blog Badge](https://img.shields.io/badge/Linkedin-Dong%20Li-brightgreen)](https://www.linkedin.com/in/keguoecn1/)
-[![Blog Badge](https://img.shields.io/badge/Gmail-lidong8421bcd%40gmail.com-orange)](mailto:guoke9612@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/Gmail-guoke9612%40gmail.com-orange)](mailto:guoke9612@gmail.com)
 
 ## 🐍: Eat All Contributions!
 ![github-snake.svg](https://github.com/GUOkekkk/GUOkekkk/blob/output/github-contribution-grid-snake.svg)
