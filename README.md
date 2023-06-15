@@ -7,7 +7,8 @@ I am currently a Master 2 student majoring in [Advanced Robotics](https://www.ec
 - BEV
 - Artificial General Intelligence (AGI) in robotics
 
-📫 Feel free to contact me to discuss any interesting topics:
+📫 Feel free to contact me to discuss any interesting topics: 
+
 ![Gmail](guoke9612@gmail.com style=social) 
 
 ![Linkedin](https://www.linkedin.com/in/keguoecn1/ style=social)
