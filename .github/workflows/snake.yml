@@ -26,6 +26,8 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
+          color_snake: 'blue'
+          color_dots: 'red'
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
