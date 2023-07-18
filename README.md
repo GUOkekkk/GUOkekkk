@@ -13,7 +13,7 @@ I am currently a Master 2 student majoring in [Advanced Robotics](https://www.ec
 [![Blog Badge](https://img.shields.io/badge/Gmail-guoke9612%40gmail.com-orange)](mailto:guoke9612@gmail.com)
 
 ## 🐍: Eat All Contributions!
-![github-snake.svg](https://github.com/GUOkekkk/GUOkekkk/blob/output/github-contribution-grid-snake.svg)
+![github-snake.svg](https://github.com/GUOkekkk/GUOkekkk/blob/output/github-snake.svg)
 
 
 
