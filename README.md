@@ -8,7 +8,7 @@ I am currently working as a Robotics Software Engineer at ABB Robotics in Shangh
 
 I got my master degree majoring in [Advanced Robotics](https://www.ec-nantes.fr/study/masters/advanced-robotics-coro-imaro) 🤖 at [Ecole Centrale de Nantes](https://www.ec-nantes.fr/), France. I am fortunate to be advised by Professor [Olivier Kermorgant](http://pagesperso.ls2n.fr/~kermorgant-o/). I obtained my Bachelor's degree in Mathematics📖(in Information and Computing Science track) supervised by Professor [Huan Su](http://homepage.hit.edu.cn/suhuan) from [HIT](http://en.hit.edu.cn/) in 2021.
 
-From February through July of 2023, I did my master's thesis internship as a research engineer supervised by [Thibault Neveu](https://www.linkedin.com/in/thibaultneveu/) in [Visual Behavior](https://visualbehavior.ai/) <img height="20" src="https://github.com/GUOkekkk/GUOkekkk/blob/main/pics/vb.png">, an excellent company located in Lyon, France, which focuses on the field of robot autonomy and computer vision.  
+From February through July of 2023, I did my master's thesis internship as a research engineer supervised by [Thibault Neveu](https://www.linkedin.com/in/thibaultneveu/) in Visual Behavior, an excellent company located in Lyon, France, which focuses on the field of robot autonomy and computer vision.  
 
 From March of 2024 to October 2026 I worked as as a Robotics Software Engineer at ABB Robotics in Shanghai, China.
 
