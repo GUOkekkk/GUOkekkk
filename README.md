@@ -10,6 +10,8 @@ I got my master degree majoring in [Advanced Robotics](https://www.ec-nantes.fr/
 
 From February through July of 2023, I did my master's thesis internship as a research engineer supervised by [Thibault Neveu](https://www.linkedin.com/in/thibaultneveu/) in [Visual Behavior](https://visualbehavior.ai/) <img height="20" src="https://github.com/GUOkekkk/GUOkekkk/blob/main/pics/vb.png">, an excellent company located in Lyon, France, which focuses on the field of robot autonomy and computer vision.  
 
+From March of 2024 to October 2026 I worked as as a Robotics Software Engineer at ABB Robotics in Shanghai, China.
+
 🔭 I am currently focused on:
 - Physical AI
 - Computer Vision
