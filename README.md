@@ -15,7 +15,7 @@ From March of 2024 to October 2026 I worked as as a Robotics Software Engineer a
 🔭 I am currently focused on:
 - Physical AI
 - Computer Vision
-- Paint Robot System
+- Robotic Solutions
 - AI Tool
 
 📫 Feel free to contact me to discuss any interesting topics: 
